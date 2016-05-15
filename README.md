@@ -16,7 +16,7 @@ note : all fee-free!!!
 
 ## Wallet
 
-Without a Bitcoin wallet, you can’t send or receive Bitcoin payments. So before you get bitcoins, you’ll need to buy, download, or create a bitcoin wallet. There are different types of wallets: [more detal here](https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/)
+Without a Bitcoin wallet, you can’t send or receive Bitcoin payments. So before you get bitcoins, you’ll need to buy, download, or create a bitcoin wallet. There are different types of wallets: [more detail here](https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/)
 
 ##### Installation
 
