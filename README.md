@@ -91,7 +91,7 @@ After setting your account. It will show mining command look like this :
 ./minerd --algo=scrypt --url=stratum+tcp://HOST:PORT --userpass=WORKERNAME:PASSWORD
 ```
 
-The command used connect between `cpuminer` and `litecoin.org`.
+The command used to connect between `cpuminer` and `litecoin.org`.
 Or you can download `mine.sh` from the website.
 
 ## Stratum protocal
@@ -146,6 +146,14 @@ sudo cpulimit --limit 80 sh mine.sh
 
 You should backup your coin data, example `coinbase`, ...
 
+## Alternative mining
+
+In case you concern about your resources. I recommended `TopMine`. All of the services are free of charge and are available for everyone. It looks like an investment system. Your miner performance upon `TeraX`.
+
+See more detail via link image below :
+
+[![ScreenShot](https://topmine.io/baners/728x90-Rumoviee.gif)](https://topmine.io/?reg=102963)
+
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
@@ -157,9 +165,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 #### Coin
 
-Bitcoin `1DG2i89xDYFfAeU7Kv5m79361AAwBANSfX`
-
-Litecoin `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
-
-Dogecoin `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
+- Bitcoin  : `1DG2i89xDYFfAeU7Kv5m79361AAwBANSfX`
+- Litecoin : `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
+- Dogecoin : `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
 
