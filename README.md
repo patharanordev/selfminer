@@ -5,6 +5,8 @@ Mining Litecoin(Open Source) on Ubuntu OS by using CPUMiner(Open Source) connect
 
 note : all fee-free!!!
 
+[![ScreenShot](https://i.ytimg.com/vi/Um63OQz3bjo/hqdefault.jpg)](https://youtu.be/Gc2en3nHxA4)
+
 ## Requirement
 
 - [x] Server
@@ -13,6 +15,8 @@ note : all fee-free!!!
 - [x] Pool
 
 ## Wallet
+
+Without a Bitcoin wallet, you can’t send or receive Bitcoin payments. So before you get bitcoins, you’ll need to buy, download, or create a bitcoin wallet. There are different types of wallets: [more detal here](https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/)
 
 ##### Installation
 
