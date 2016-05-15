@@ -1,7 +1,9 @@
 # SELFMiner
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
 
-Mine Litecoin on Ubuntu OS by using CPUMiner connect to litecoinpool.org.
-(For miners who want to mine Litecoin by yourself)
+Mining Litecoin(Open Source) on Ubuntu OS by using CPUMiner(Open Source) connect to litecoinpool.org (For miners who want to mine Litecoin by yourself).
+
+note : all fee-free!!!
 
 ## Requirement
 
@@ -82,9 +84,7 @@ note : Litecoin will return wallet address to you, it used to regist in litecoin
 ## litecoinpool.org
 
 You need to register to the [pool](www.litecoinpool.org) first.
-
 Set your Litecoin wallet address in `My Account` page.
-
 After setting your account. It will show mining command look like this :
 
 ```
@@ -92,7 +92,6 @@ After setting your account. It will show mining command look like this :
 ```
 
 The command used connect between `cpuminer` and `litecoin.org`.
-
 Or you can download `mine.sh` from the website.
 
 ## Stratum protocal
@@ -109,3 +108,58 @@ sudo python setup.py install
 ```
 
 ## CPUMiner
+
+It is a multi-threaded, highly optimized CPU miner for Litecoin, Bitcoin, and other cryptocurrencies. Currently supported algorithms are SHA-256d and scrypt(N, 1, 1). It supports the getblocktemplate mining protocol as well as the Stratum mining protocol, and can be used for both solo and pooled mining.
+
+ref : https://github.com/pooler/cpuminer
+
+##### Installation
+
+```
+sudo apt-get install build-essential autoconf automake libtool pkg-config libcurl3-dev libudev-dev
+git clone https://github.com/pooler/cpuminer
+cd cpuminer
+sh autogen.sh
+./configure CFLAGS="-O3"
+make
+```
+
+Now, you can mine Litecoin by using `./minerd --algo=scrypt --url=stratum+tcp://HOST:PORT --userpass=WORKERNAME:PASSWORD`.
+
+Enjoy!!!
+
+## Option
+
+Mining Litecoin by using CPU, it will take many many many cost from your resources. For miner who don't care about it. I found some tools to support you :
+
+##### CPULimit
+
+Set your limit of CPU usage : `https://github.com/patharanordev/cpulimit/wiki/CPU-Usage-Limiter-for-Linux`.
+
+Usage :
+
+```
+sudo cpulimit --limit 80 sh mine.sh
+```
+
+##### Bank
+
+You should backup your coin data, example `coinbase`, ...
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+#### Money
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
+
+
+#### Coin
+
+Bitcoin `1DG2i89xDYFfAeU7Kv5m79361AAwBANSfX`
+
+Litecoin `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
+
+Dogecoin `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
+
