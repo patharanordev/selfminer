@@ -156,7 +156,7 @@ In case you concern about your resources. I recommended `TopMine`. All of the se
 
 See more detail via link image below :
 
-[![ScreenShot](https://topmine.io/baners/728x90-Rumoviee.gif)](https://topmine.io/?reg=102963)
+[![ScreenShot](https://topmine.io/baners/728x90-Rumoviee.gif)](https://topmine.io/?reg=102898)
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
@@ -169,7 +169,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 #### Coin
 
-- Bitcoin  : `1DG2i89xDYFfAeU7Kv5m79361AAwBANSfX`
-- Litecoin : `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
-- Dogecoin : `DS7uUZ5WYhvMLSDu3hXicSQzeAXpJKcZCs`
+- Bitcoin  : `1Jiw6aPKskvarnP1rsgJpPv57YqFoAABE1`
+- Litecoin : `LcJhc1A13fNJH75Fkiz6CmxwEhu1FFnven`
+- Dogecoin : `DTWDxQnirzpef6JN2Www6piiprWN9RjPWd`
 
