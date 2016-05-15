@@ -154,7 +154,7 @@ You should backup your coin data, example `coinbase`, ...
 
 In case you concern about your resources. I recommended `TopMine`. All of the services ( mining, wallet, deposit, withdraw, ... ) are free of charge and are available for everyone. It looks like an investment system. Your miner performance upon `TeraX`.
 
-See more detail via link image below :
+You can see more detail via link image below :
 
 [![ScreenShot](https://topmine.io/baners/728x90-Rumoviee.gif)](https://topmine.io/?reg=102898)
 
