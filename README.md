@@ -158,6 +158,32 @@ You can see more detail via link image below :
 
 [![ScreenShot](https://topmine.io/baners/728x90-Rumoviee.gif)](https://topmine.io/?reg=102898)
 
+And other services that provide bitcoin to you look like faucets. I have already test the services below, they payout :
+
+CLDMine
+
+[![ScreenShot](https://cldmine.com/assets/banners/en/728-90/1.gif)](https://cldmine.com/?ref=364836)
+
+Or solve reCAPTCHA to get reward(bitcoin) by yourself
+
+ClaimBTC
+
+[![ScreenShot](http://claimbtc.com/site/img/ads/promo/300x250.gif)](http://claimbtc.com/?r=52aa8f3aee)
+
+Easy Bitcoin Fuacet
+
+[![ScreenShot](http://easybitcoinfaucet.com/site/img/ads/promo/300x250.gif)](http://easybitcoinfaucet.com/?r=db44e55b85)
+
+Freebitcoin
+
+[![ScreenShot](http://static1.freebitco.in/banners/728x90-3.png)](http://freebitco.in/?r=2590419)
+
+Or investment by using bitcoin :
+
+15bit.biz
+
+[![ScreenShot](http://15bit.biz/images/728x90.gif)](http://15bit.biz/?ref=PatharaNor)
+
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
