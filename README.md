@@ -160,9 +160,9 @@ You can see more detail via link image below :
 
 And other services that provide bitcoin to you look like faucets. I have already test the services below, they payout :
 
-CLDMine
+CoinPower.io
 
-[![ScreenShot](https://cldmine.com/assets/banners/en/728-90/1.gif)](https://cldmine.com/?ref=364836)
+[![ScreenShot](https://coinpower.io/banners/npf0nvis92.jpg)](https://coinpower.io/?partner=114018506)
 
 Or solve reCAPTCHA to get reward(bitcoin) by yourself
 
