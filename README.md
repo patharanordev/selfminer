@@ -164,6 +164,10 @@ CoinPower.io
 
 [![ScreenShot](https://coinpower.io/banners/npf0nvis92.jpg)](https://coinpower.io/?partner=114018506)
 
+Earn Satoshi free!!!
+
+[![ScreenShot](http://fieldbitcoins.com/img/728x90.gif?v2)](http://fieldbitcoins.com/?ref=qj7kreih306752)
+
 Or solve reCAPTCHA to get reward(bitcoin) by yourself
 
 ClaimBTC
