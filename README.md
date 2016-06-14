@@ -182,6 +182,10 @@ Freebitcoin
 
 [![ScreenShot](http://static1.freebitco.in/banners/728x90-3.png)](http://freebitco.in/?r=2590419)
 
+Bitcoin/Litecoin/Dogecoin/Dashcoin Fuacet ( around 190 per 15 minutes )
+
+[![ScreenShot](https://solebtc.com/9c9a89add899721c95293e4ff233c632.gif)](http://solebtc.com/register?referer_id=17171)
+
 Or investment by using bitcoin :
 
 15bit.biz
