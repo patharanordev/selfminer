@@ -160,10 +160,6 @@ You can see more detail via link image below :
 
 And other services that provide bitcoin to you look like faucets. I have already test the services below, they payout :
 
-CoinPower.io
-
-[![ScreenShot](https://coinpower.io/banners/npf0nvis92.jpg)](https://coinpower.io/?partner=114018506)
-
 Earn Satoshi free!!!
 
 [![ScreenShot](http://fieldbitcoins.com/img/728x90.gif?v2)](http://fieldbitcoins.com/?ref=qj7kreih306752)
@@ -186,11 +182,11 @@ Bitcoin/Litecoin/Dogecoin/Dashcoin Fuacet ( around 190 per 15 minutes )
 
 [![ScreenShot](https://solebtc.com/9c9a89add899721c95293e4ff233c632.gif)](http://solebtc.com/register?referer_id=17171)
 
-Or investment by using bitcoin :
+Or provide place for advertise :
 
-15bit.biz
+<a href='https://adbit.co/?r=z9kg2616ieBA552rbRfY34UuwcrDwh'>Adbit.co</a>
 
-[![ScreenShot](http://15bit.biz/images/728x90.gif)](http://15bit.biz/?ref=PatharaNor)
+<a href='http://a-ads.com?partner=210171'>Advertise with Anonymous Ads</a>
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
